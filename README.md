@@ -1,4 +1,4 @@
-![Meshtastic Logo](https://meshtastic.org/design/typelogo/typelogo.svg)
+![Logo](Meshtastic_Logo.png)
 # Meshtastic Journey
 Stumbled across [Meshtastic](https://www.meshtastic.org) and thought it looked like something fun to explore.
 # NodeRed
