@@ -41,6 +41,10 @@ Alternativley:
 
 Picked mine up on [Amazon](https://www.amazon.ca/dp/B0D7HSHTNX?tag=simsay02-20) for $35CDN.   I have one in a portable node with a 3000ma battery and another powered via USB at the house. 
 
+## [XIAO nRF52840 & Wio-SX1262](https://www.seeedstudio.com/XIAO-nRF52840-Wio-SX1262-Kit-for-Meshtastic-p-6400.html)
+![Pic](https://media-cdn.seeedstudio.com/media/catalog/product/cache/48035b5512857d0ab907b31a092da78f/2/-/2-102010710-nrf52840_wio-sx1262-kit_1.jpg)
+Got one on the way from [Aliexpress for < $20CDN](https://www.aliexpress.com/item/1005008760784706.html). These are *much* lower power then the ESP32 based noted so better suited for solar. 
+
 
 ## Antennas
 ![antenna](https://ae-pic-a1.aliexpress-media.com/kf/S8a146adc82a04b7d99b5c821c6ca18caM.jpg_220x220q75.jpg_.avif)
