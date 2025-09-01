@@ -13,7 +13,7 @@ I am also running NR on a [Raspberry PI Zero 2W](https://www.raspberrypi.com/pro
 
 # Hardware
 ## [Heltec v2](https://heltec.org/project/wifi-lora-32v2/)
-> [!Warning]
+> [!WARNING]
 > You probably don't want to buy these.  Watch out for cheap Heltec v2s on Ali or Amazon.  The v2 is discontinued (for good reasons) and repaced by the v3.
 The Heltec v2 is no longer supported by the Meshtastic flasher.      I ended up buying one of these by mistake (< $20CDN on Ali), but do have it working.    In order to flah the v2 you need to compile the firmware yourself.
 ### Flashing a V2
@@ -53,7 +53,7 @@ I have bought a couple of these [patch antennas](https://www.aliexpress.com/item
 
 ## Solar Nodes
 ![Pic of light](https://ae-pic-a1.aliexpress-media.com/kf/S72cf8761844849a1b12e92143bd809bfh.png_220x220.png_.avif)
-* I ordered a [solar light from Aliexpress](https://www.aliexpress.com/item/1005008035585251.html) (~$10) that supposedly has a large enough battery to keep a node running.   My plan is to disassemble and install a XXX.
+* I ordered a [solar light from Aliexpress](https://www.aliexpress.com/item/1005008035585251.html) (~$10) that supposedly has a large enough battery to keep a node running.   My plan is to disassemble and install a nRF52840.
 * Will update when complete.
 
 # 3D Printed Cases
