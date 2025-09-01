@@ -13,8 +13,10 @@ I am also running NR on a [Raspberry PI Zero 2W](https://www.raspberrypi.com/pro
 
 # Hardware
 ## [Heltec v2](https://heltec.org/project/wifi-lora-32v2/)
+
 > [!WARNING]
 > You probably don't want to buy these.  Watch out for cheap Heltec v2s on Ali or Amazon.  The v2 is discontinued (for good reasons) and repaced by the v3.
+
 The Heltec v2 is no longer supported by the Meshtastic flasher.      I ended up buying one of these by mistake (< $20CDN on Ali), but do have it working.    In order to flah the v2 you need to compile the firmware yourself.
 ### Flashing a V2
 Flashing a v2 requies you to compile your own firmware.     Here is the steps I followed:
